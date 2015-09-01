@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <script src="../svg-pan-zoom.js"></script>
+    <title>Round 30 - Map 196</title>
+  </head>
+
+  <body>
+    <h1>Round 30 - Map 196</h1>
+
+    <div id="container" style="width: 75%; height: 90%; position: fixed; right: 0; border:1px solid black; ">
+      <embed id="gamemap" type="image/svg+xml" style="display: inline; width: 100%; height: 100%; " version="1.1" src="map_196.svg">
+      </embed>
+    </div>
+
+    <ul>
+      <li><a href="map_186.html">Back 10</a></li>
+      <li><a href="map_195.html">Previous</a> </li>
+      <li><a href="map_197.html">Next</a></li>
+      <li><a href="map_206.html">Forward 10</a> </li>
+    </ul>
+
+    <p/>
+    <span style="background-color: red; color: black;">Player 1</span> 
+    VS
+    <span style="background-color: blue; color: white;">Player 2</span>
+
+    <p/>
+
+    <strong>Attack/transfer</strong>: player1<br/>armies: 7<br/>from 20(4) to 18(4)
+
+    <script>
+      // Don't use window.onLoad like this in production, because it can only listen to one function.
+      window.onload = function() {
+        svgPanZoom('#gamemap', {
+          zoomEnabled: true,
+          controlIconsEnabled: true,
+          fit: 1,
+          center: 1
+        });
+
+        $(window).resize(function(){
+          panZoom.resize();
+          panZoom.fit();
+          panZoom.center();
+        })
+      };
+    </script>
+
+  </body>
+
+</html>

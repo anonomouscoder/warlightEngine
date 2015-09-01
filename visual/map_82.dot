@@ -1,0 +1,182 @@
+digraph G {
+  margin=0.1;
+  center=false;
+    subgraph cluster1 {
+        label="Super region 1 [3]";
+        style=filled;
+        color=sandybrown;
+        1 [label="1: 1",style=filled,fontcolor=white,color=blue];
+        2 [label="2: 1",style=filled,fontcolor=white,color=blue];
+        3 [label="3: 1",style=filled,fontcolor=white,color=blue];
+    }
+        subgraph cluster2 {
+        label="Super region 2 [6]";
+        style=filled;
+        color=sandybrown;
+        4 [label="4: 1",style=filled,fontcolor=white,color=blue];
+        5 [label="5: 1",style=filled,fontcolor=black,color=beige];
+        6 [label="6: 1",style=filled,fontcolor=white,color=blue];
+        7 [label="7: 2",style=filled,fontcolor=black,color=beige];
+        8 [label="8: 1",style=filled,fontcolor=white,color=blue];
+        9 [label="9: 2",style=filled,fontcolor=black,color=beige];
+        10 [label="10: 2",style=filled,fontcolor=black,color=beige];
+    }
+        subgraph cluster3 {
+        label="Super region 3 [3]";
+        style=filled;
+        color=sandybrown;
+        11 [label="11: 1",style=filled,fontcolor=white,color=blue];
+        12 [label="12: 1",style=filled,fontcolor=white,color=blue];
+        13 [label="13: 1",style=filled,fontcolor=white,color=blue];
+        14 [label="14: 1",style=filled,fontcolor=white,color=blue];
+        15 [label="15: 11",style=filled,fontcolor=white,color=blue];
+    }
+        subgraph cluster4 {
+        label="Super region 4 [4]";
+        style=filled;
+        color=sandybrown;
+        16 [label="16: 1",style=filled,fontcolor=white,color=blue];
+        17 [label="17: 1",style=filled,fontcolor=white,color=blue];
+        18 [label="18: 26",style=filled,fontcolor=white,color=blue];
+        19 [label="19: 1",style=filled,fontcolor=black,color=red];
+        20 [label="20: 1",style=filled,fontcolor=black,color=red];
+        21 [label="21: 1",style=filled,fontcolor=black,color=red];
+    }
+        subgraph cluster5 {
+        label="Super region 5 [4]";
+        style=filled;
+        color=sandybrown;
+        22 [label="22: 1",style=filled,fontcolor=black,color=red];
+        23 [label="23: 10",style=filled,fontcolor=white,color=blue];
+        24 [label="24: 12",style=filled,fontcolor=black,color=red];
+        25 [label="25: 1",style=filled,fontcolor=black,color=red];
+        26 [label="26: 1",style=filled,fontcolor=black,color=red];
+        27 [label="27: 3",style=filled,fontcolor=black,color=red];
+    }
+        subgraph cluster6 {
+        label="Super region 6 [3]";
+        style=filled;
+        color=sandybrown;
+        28 [label="28: 1",style=filled,fontcolor=black,color=red];
+        29 [label="29: 2",style=filled,fontcolor=black,color=beige];
+        30 [label="30: 2",style=filled,fontcolor=black,color=beige];
+        31 [label="31: 1",style=filled,fontcolor=black,color=beige];
+        32 [label="32: 2",style=filled,fontcolor=black,color=beige];
+    }
+        subgraph cluster7 {
+        label="Super region 7 [3]";
+        style=filled;
+        color=sandybrown;
+        33 [label="33: 1",style=filled,fontcolor=black,color=red];
+        34 [label="34: 2",style=filled,fontcolor=black,color=beige];
+        35 [label="35: 1",style=filled,fontcolor=black,color=red];
+    }
+        subgraph cluster8 {
+        label="Super region 8 [2]";
+        style=filled;
+        color=sandybrown;
+        36 [label="36: 6",style=filled,fontcolor=black,color=beige];
+        37 [label="37: 2",style=filled,fontcolor=black,color=beige];
+        38 [label="38: 6",style=filled,fontcolor=black,color=beige];
+        39 [label="39: 2",style=filled,fontcolor=black,color=beige];
+        40 [label="40: 2",style=filled,fontcolor=black,color=beige];
+    }
+        subgraph cluster9 {
+        label="Super region 9 [2]";
+        style=filled;
+        color=sandybrown;
+        41 [label="41: 2",style=filled,fontcolor=black,color=beige];
+        42 [label="42: 6",style=filled,fontcolor=black,color=beige];
+        43 [label="43: 2",style=filled,fontcolor=black,color=beige];
+    }
+    1 -> 2 [color=grey,arrowhead=none,penwidth=1.0];
+    1 -> 3 [color=grey,arrowhead=none,penwidth=1.0];
+    1 -> 4 [color=grey,arrowhead=none,penwidth=1.0];
+    1 -> 6 [color=grey,arrowhead=none,penwidth=1.0];
+    1 -> 11 [color=grey,arrowhead=none,penwidth=1.0];
+    1 -> 13 [color=grey,arrowhead=none,penwidth=1.0];
+    2 -> 4 [color=grey,arrowhead=none,penwidth=1.0];
+    3 -> 11 [color=grey,arrowhead=none,penwidth=1.0];
+    4 -> 5 [color=grey,arrowhead=none,penwidth=1.0];
+    4 -> 6 [color=grey,arrowhead=none,penwidth=1.0];
+    5 -> 6 [color=grey,arrowhead=none,penwidth=1.0];
+    5 -> 7 [color=grey,arrowhead=none,penwidth=1.0];
+    5 -> 9 [color=grey,arrowhead=none,penwidth=1.0];
+    6 -> 7 [color=grey,arrowhead=none,penwidth=1.0];
+    6 -> 8 [color=grey,arrowhead=none,penwidth=1.0];
+    6 -> 9 [color=grey,arrowhead=none,penwidth=1.0];
+    6 -> 13 [color=grey,arrowhead=none,penwidth=1.0];
+    7 -> 9 [color=grey,arrowhead=none,penwidth=1.0];
+    8 -> 9 [color=grey,arrowhead=none,penwidth=1.0];
+    8 -> 13 [color=grey,arrowhead=none,penwidth=1.0];
+    8 -> 14 [color=grey,arrowhead=none,penwidth=1.0];
+    8 -> 15 [color=grey,arrowhead=none,penwidth=1.0];
+    9 -> 10 [color=grey,arrowhead=none,penwidth=1.0];
+    11 -> 12 [color=grey,arrowhead=none,penwidth=1.0];
+    11 -> 13 [color=grey,arrowhead=none,penwidth=1.0];
+    11 -> 14 [color=grey,arrowhead=none,penwidth=1.0];
+    12 -> 14 [color=grey,arrowhead=none,penwidth=1.0];
+    12 -> 15 [color=grey,arrowhead=none,penwidth=1.0];
+    13 -> 14 [color=grey,arrowhead=none,penwidth=1.0];
+    14 -> 15 [color=grey,arrowhead=none,penwidth=1.0];
+    15 -> 17 [color=grey,arrowhead=none,penwidth=1.0];
+    16 -> 18 [color=grey,arrowhead=none,penwidth=1.0];
+    17 -> 18 [color=grey,arrowhead=none,penwidth=1.0];
+    17 -> 23 [color=grey,arrowhead=none,penwidth=1.0];
+    18 -> 19 [color=grey,arrowhead=none,penwidth=1.0];
+    18 -> 20 [color=grey,arrowhead=none,penwidth=1.0];
+    18 -> 21 [color=grey,arrowhead=none,penwidth=1.0];
+    18 -> 23 [color=grey,arrowhead=none,penwidth=1.0];
+    18 -> 33 [color=grey,arrowhead=none,penwidth=1.0];
+    19 -> 21 [color=grey,arrowhead=none,penwidth=1.0];
+    19 -> 23 [color=grey,arrowhead=none,penwidth=1.0];
+    20 -> 21 [color=grey,arrowhead=none,penwidth=1.0];
+    20 -> 33 [color=grey,arrowhead=none,penwidth=1.0];
+    20 -> 35 [color=grey,arrowhead=none,penwidth=1.0];
+    21 -> 23 [color=grey,arrowhead=none,penwidth=1.0];
+    21 -> 26 [color=grey,arrowhead=none,penwidth=1.0];
+    21 -> 35 [color=grey,arrowhead=none,penwidth=1.0];
+    22 -> 23 [color=grey,arrowhead=none,penwidth=1.0];
+    22 -> 24 [color=grey,arrowhead=none,penwidth=1.0];
+    23 -> 24 [color=grey,arrowhead=none,penwidth=1.0];
+    23 -> 25 [color=grey,arrowhead=none,penwidth=1.0];
+    23 -> 26 [color=grey,arrowhead=none,penwidth=1.0];
+    23 -> 27 [color=grey,arrowhead=none,penwidth=1.0];
+    24 -> 25 [color=grey,arrowhead=none,penwidth=1.0];
+    24 -> 27 [color=grey,arrowhead=none,penwidth=1.0];
+    24 -> 28 [color=grey,arrowhead=none,penwidth=1.0];
+    24 -> 41 [color=grey,arrowhead=none,penwidth=1.0];
+    25 -> 27 [color=grey,arrowhead=none,penwidth=1.0];
+    26 -> 27 [color=grey,arrowhead=none,penwidth=1.0];
+    26 -> 35 [color=grey,arrowhead=none,penwidth=1.0];
+    27 -> 41 [color=grey,arrowhead=none,penwidth=1.0];
+    27 -> 42 [color=grey,arrowhead=none,penwidth=1.0];
+    28 -> 29 [color=grey,arrowhead=none,penwidth=1.0];
+    28 -> 30 [color=grey,arrowhead=none,penwidth=1.0];
+    28 -> 31 [color=grey,arrowhead=none,penwidth=1.0];
+    28 -> 41 [color=grey,arrowhead=none,penwidth=1.0];
+    29 -> 30 [color=grey,arrowhead=none,penwidth=1.0];
+    29 -> 32 [color=grey,arrowhead=none,penwidth=1.0];
+    30 -> 31 [color=grey,arrowhead=none,penwidth=1.0];
+    30 -> 32 [color=grey,arrowhead=none,penwidth=1.0];
+    30 -> 38 [color=grey,arrowhead=none,penwidth=1.0];
+    30 -> 41 [color=grey,arrowhead=none,penwidth=1.0];
+    31 -> 41 [color=grey,arrowhead=none,penwidth=1.0];
+    32 -> 36 [color=grey,arrowhead=none,penwidth=1.0];
+    32 -> 38 [color=grey,arrowhead=none,penwidth=1.0];
+    33 -> 34 [color=grey,arrowhead=none,penwidth=1.0];
+    33 -> 35 [color=grey,arrowhead=none,penwidth=1.0];
+    34 -> 35 [color=grey,arrowhead=none,penwidth=1.0];
+    36 -> 37 [color=grey,arrowhead=none,penwidth=1.0];
+    36 -> 38 [color=grey,arrowhead=none,penwidth=1.0];
+    36 -> 39 [color=grey,arrowhead=none,penwidth=1.0];
+    36 -> 40 [color=grey,arrowhead=none,penwidth=1.0];
+    38 -> 39 [color=grey,arrowhead=none,penwidth=1.0];
+    38 -> 41 [color=grey,arrowhead=none,penwidth=1.0];
+    38 -> 43 [color=grey,arrowhead=none,penwidth=1.0];
+    39 -> 40 [color=grey,arrowhead=none,penwidth=1.0];
+    41 -> 42 [color=grey,arrowhead=none,penwidth=1.0];
+    41 -> 43 [color=grey,arrowhead=none,penwidth=1.0];
+    42 -> 43 [color=grey,arrowhead=none,penwidth=1.0];
+
+}

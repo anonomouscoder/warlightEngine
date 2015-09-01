@@ -1,0 +1,72 @@
+Champion: (b.out) 
+	Choose territory:	
+		chooses first territory in list
+	Place Armies:
+		random
+	Move Armies:
+		all territories (str>1) move to a random neutral/enemy neighbor
+Challenger: (a.out)
+	Choose territory:
+		Weight list: weight = 1000 - 40*(superbonus/supersize) 
+		Smallest weight is best
+	Place Armies:
+		weight list of owned based on neighbors: 
+			on first enemy neighbor seen
+				weight += 50
+			on first neutral neighbor seen
+				weight += 100
+			if this neighbor (enemy or neutral) is in the same superregion
+				weight += 100*superbonus/supersize
+		if armies > 50, don't give more
+		biggest weight is best
+		divide armies:
+			give 2 armies to biggest army, 1 to the 2nd biggest
+			divide the rest of the armies to them proportionally by weight
+	Move Armies:
+		for each region that has str>4
+			for each neighbor
+				if enemy:
+					weight = 200
+					if my attack can kill all their defenders
+						weight += 10 
+					if this is in the same superregion
+						weight += 1000
+				if neutral:
+					weight = 100
+					if my attack can kill all their defenders
+						weight += 10 
+					if this is in the same superregion
+						weight += 1000
+				if me:
+					weight = 10
+		biggest weight is best
+		
+	target order :
+		weak enemy in same super   	(1000+100+20 = 1120)
+		weak neutral in same super 	(1000+100+10 = 1110)
+		weak enemy 				  	(1000+20     = 1020)
+		weak neutral 			   	(1000+10     = 1010)
+		stronger owned				(515)
+		owned, no bad neighbors		(501)
+		no move						(500)
+		owned, with bad neighbor	(500)
+		enemy in same super 		(100+20      = 120)
+		neutral in same super 		(100+10      = 110)
+		enemy 						(20)
+		neutral 					(10)
+	new ideal order :
+
+Challenger changes:
+Result		Description
+25, 72, 3	best
+35, 65, 0	ideal target order, neutral attacks went from just being greater number, to being atk*.568 > def
+25, 73, 2   started giving all armies to one territory
+27, 70, 3	divided units based on need
+16, 80, 4	made tactical moves more weighted
+31, 68, 1	made attacks based on powers?
+35, 64, 1	check for bad neighbors
+36, 60, 4	substract the current army from the needed units before giving them out
+37, 59, 4	sorted the superregions
+
+a: 484 48%, b: 461 46%, tie: 55 5%, total: 1000 	edited test framework added 'wait to conquer last region in super' concept
+

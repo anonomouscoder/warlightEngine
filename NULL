@@ -1,0 +1,544 @@
+1  2 writing map into map_0.dot
+running command: dot -Tsvg ./visual/map_0.dot -o ./visual/map_0.svg
+writing map into map_1.dot
+running command: dot -Tsvg ./visual/map_1.dot -o ./visual/map_1.svg
+writing map into map_2.dot
+running command: dot -Tsvg ./visual/map_2.dot -o ./visual/map_2.svg
+writing map into map_3.dot
+running command: dot -Tsvg ./visual/map_3.dot -o ./visual/map_3.svg
+writing map into map_4.dot
+running command: dot -Tsvg ./visual/map_4.dot -o ./visual/map_4.svg
+writing map into map_5.dot
+running command: dot -Tsvg ./visual/map_5.dot -o ./visual/map_5.svg
+writing map into map_6.dot
+running command: dot -Tsvg ./visual/map_6.dot -o ./visual/map_6.svg
+writing map into map_7.dot
+running command: dot -Tsvg ./visual/map_7.dot -o ./visual/map_7.svg
+writing map into map_8.dot
+running command: dot -Tsvg ./visual/map_8.dot -o ./visual/map_8.svg
+writing map into map_9.dot
+running command: dot -Tsvg ./visual/map_9.dot -o ./visual/map_9.svg
+writing map into map_10.dot
+running command: dot -Tsvg ./visual/map_10.dot -o ./visual/map_10.svg
+writing map into map_11.dot
+running command: dot -Tsvg ./visual/map_11.dot -o ./visual/map_11.svg
+writing map into map_12.dot
+running command: dot -Tsvg ./visual/map_12.dot -o ./visual/map_12.svg
+writing map into map_13.dot
+running command: dot -Tsvg ./visual/map_13.dot -o ./visual/map_13.svg
+writing map into map_14.dot
+running command: dot -Tsvg ./visual/map_14.dot -o ./visual/map_14.svg
+writing map into map_15.dot
+running command: dot -Tsvg ./visual/map_15.dot -o ./visual/map_15.svg
+writing map into map_16.dot
+running command: dot -Tsvg ./visual/map_16.dot -o ./visual/map_16.svg
+writing map into map_17.dot
+running command: dot -Tsvg ./visual/map_17.dot -o ./visual/map_17.svg
+writing map into map_18.dot
+running command: dot -Tsvg ./visual/map_18.dot -o ./visual/map_18.svg
+writing map into map_19.dot
+running command: dot -Tsvg ./visual/map_19.dot -o ./visual/map_19.svg
+writing map into map_20.dot
+running command: dot -Tsvg ./visual/map_20.dot -o ./visual/map_20.svg
+writing map into map_21.dot
+running command: dot -Tsvg ./visual/map_21.dot -o ./visual/map_21.svg
+writing map into map_22.dot
+running command: dot -Tsvg ./visual/map_22.dot -o ./visual/map_22.svg
+writing map into map_23.dot
+running command: dot -Tsvg ./visual/map_23.dot -o ./visual/map_23.svg
+writing map into map_24.dot
+running command: dot -Tsvg ./visual/map_24.dot -o ./visual/map_24.svg
+writing map into map_25.dot
+running command: dot -Tsvg ./visual/map_25.dot -o ./visual/map_25.svg
+writing map into map_26.dot
+running command: dot -Tsvg ./visual/map_26.dot -o ./visual/map_26.svg
+writing map into map_27.dot
+running command: dot -Tsvg ./visual/map_27.dot -o ./visual/map_27.svg
+writing map into map_28.dot
+running command: dot -Tsvg ./visual/map_28.dot -o ./visual/map_28.svg
+writing map into map_29.dot
+running command: dot -Tsvg ./visual/map_29.dot -o ./visual/map_29.svg
+writing map into map_30.dot
+running command: dot -Tsvg ./visual/map_30.dot -o ./visual/map_30.svg
+writing map into map_31.dot
+running command: dot -Tsvg ./visual/map_31.dot -o ./visual/map_31.svg
+writing map into map_32.dot
+running command: dot -Tsvg ./visual/map_32.dot -o ./visual/map_32.svg
+writing map into map_33.dot
+running command: dot -Tsvg ./visual/map_33.dot -o ./visual/map_33.svg
+writing map into map_34.dot
+running command: dot -Tsvg ./visual/map_34.dot -o ./visual/map_34.svg
+writing map into map_35.dot
+running command: dot -Tsvg ./visual/map_35.dot -o ./visual/map_35.svg
+writing map into map_36.dot
+running command: dot -Tsvg ./visual/map_36.dot -o ./visual/map_36.svg
+writing map into map_37.dot
+running command: dot -Tsvg ./visual/map_37.dot -o ./visual/map_37.svg
+writing map into map_38.dot
+running command: dot -Tsvg ./visual/map_38.dot -o ./visual/map_38.svg
+writing map into map_39.dot
+running command: dot -Tsvg ./visual/map_39.dot -o ./visual/map_39.svg
+writing map into map_40.dot
+running command: dot -Tsvg ./visual/map_40.dot -o ./visual/map_40.svg
+writing map into map_41.dot
+running command: dot -Tsvg ./visual/map_41.dot -o ./visual/map_41.svg
+writing map into map_42.dot
+running command: dot -Tsvg ./visual/map_42.dot -o ./visual/map_42.svg
+writing map into map_43.dot
+running command: dot -Tsvg ./visual/map_43.dot -o ./visual/map_43.svg
+writing map into map_44.dot
+running command: dot -Tsvg ./visual/map_44.dot -o ./visual/map_44.svg
+writing map into map_45.dot
+running command: dot -Tsvg ./visual/map_45.dot -o ./visual/map_45.svg
+writing map into map_46.dot
+running command: dot -Tsvg ./visual/map_46.dot -o ./visual/map_46.svg
+writing map into map_47.dot
+running command: dot -Tsvg ./visual/map_47.dot -o ./visual/map_47.svg
+writing map into map_48.dot
+running command: dot -Tsvg ./visual/map_48.dot -o ./visual/map_48.svg
+writing map into map_49.dot
+running command: dot -Tsvg ./visual/map_49.dot -o ./visual/map_49.svg
+writing map into map_50.dot
+running command: dot -Tsvg ./visual/map_50.dot -o ./visual/map_50.svg
+writing map into map_51.dot
+running command: dot -Tsvg ./visual/map_51.dot -o ./visual/map_51.svg
+writing map into map_52.dot
+running command: dot -Tsvg ./visual/map_52.dot -o ./visual/map_52.svg
+writing map into map_53.dot
+running command: dot -Tsvg ./visual/map_53.dot -o ./visual/map_53.svg
+writing map into map_54.dot
+running command: dot -Tsvg ./visual/map_54.dot -o ./visual/map_54.svg
+writing map into map_55.dot
+running command: dot -Tsvg ./visual/map_55.dot -o ./visual/map_55.svg
+writing map into map_56.dot
+running command: dot -Tsvg ./visual/map_56.dot -o ./visual/map_56.svg
+writing map into map_57.dot
+running command: dot -Tsvg ./visual/map_57.dot -o ./visual/map_57.svg
+writing map into map_58.dot
+running command: dot -Tsvg ./visual/map_58.dot -o ./visual/map_58.svg
+writing map into map_59.dot
+running command: dot -Tsvg ./visual/map_59.dot -o ./visual/map_59.svg
+writing map into map_60.dot
+running command: dot -Tsvg ./visual/map_60.dot -o ./visual/map_60.svg
+writing map into map_61.dot
+running command: dot -Tsvg ./visual/map_61.dot -o ./visual/map_61.svg
+writing map into map_62.dot
+running command: dot -Tsvg ./visual/map_62.dot -o ./visual/map_62.svg
+writing map into map_63.dot
+running command: dot -Tsvg ./visual/map_63.dot -o ./visual/map_63.svg
+writing map into map_64.dot
+running command: dot -Tsvg ./visual/map_64.dot -o ./visual/map_64.svg
+writing map into map_65.dot
+running command: dot -Tsvg ./visual/map_65.dot -o ./visual/map_65.svg
+writing map into map_66.dot
+running command: dot -Tsvg ./visual/map_66.dot -o ./visual/map_66.svg
+writing map into map_67.dot
+running command: dot -Tsvg ./visual/map_67.dot -o ./visual/map_67.svg
+writing map into map_68.dot
+running command: dot -Tsvg ./visual/map_68.dot -o ./visual/map_68.svg
+writing map into map_69.dot
+running command: dot -Tsvg ./visual/map_69.dot -o ./visual/map_69.svg
+writing map into map_70.dot
+running command: dot -Tsvg ./visual/map_70.dot -o ./visual/map_70.svg
+writing map into map_71.dot
+running command: dot -Tsvg ./visual/map_71.dot -o ./visual/map_71.svg
+writing map into map_72.dot
+running command: dot -Tsvg ./visual/map_72.dot -o ./visual/map_72.svg
+writing map into map_73.dot
+running command: dot -Tsvg ./visual/map_73.dot -o ./visual/map_73.svg
+writing map into map_74.dot
+running command: dot -Tsvg ./visual/map_74.dot -o ./visual/map_74.svg
+writing map into map_75.dot
+running command: dot -Tsvg ./visual/map_75.dot -o ./visual/map_75.svg
+writing map into map_76.dot
+running command: dot -Tsvg ./visual/map_76.dot -o ./visual/map_76.svg
+writing map into map_77.dot
+running command: dot -Tsvg ./visual/map_77.dot -o ./visual/map_77.svg
+writing map into map_78.dot
+running command: dot -Tsvg ./visual/map_78.dot -o ./visual/map_78.svg
+writing map into map_79.dot
+running command: dot -Tsvg ./visual/map_79.dot -o ./visual/map_79.svg
+writing map into map_80.dot
+running command: dot -Tsvg ./visual/map_80.dot -o ./visual/map_80.svg
+writing map into map_81.dot
+running command: dot -Tsvg ./visual/map_81.dot -o ./visual/map_81.svg
+writing map into map_82.dot
+running command: dot -Tsvg ./visual/map_82.dot -o ./visual/map_82.svg
+writing map into map_83.dot
+running command: dot -Tsvg ./visual/map_83.dot -o ./visual/map_83.svg
+writing map into map_84.dot
+running command: dot -Tsvg ./visual/map_84.dot -o ./visual/map_84.svg
+writing map into map_85.dot
+running command: dot -Tsvg ./visual/map_85.dot -o ./visual/map_85.svg
+writing map into map_86.dot
+running command: dot -Tsvg ./visual/map_86.dot -o ./visual/map_86.svg
+writing map into map_87.dot
+running command: dot -Tsvg ./visual/map_87.dot -o ./visual/map_87.svg
+writing map into map_88.dot
+running command: dot -Tsvg ./visual/map_88.dot -o ./visual/map_88.svg
+writing map into map_89.dot
+running command: dot -Tsvg ./visual/map_89.dot -o ./visual/map_89.svg
+writing map into map_90.dot
+running command: dot -Tsvg ./visual/map_90.dot -o ./visual/map_90.svg
+writing map into map_91.dot
+running command: dot -Tsvg ./visual/map_91.dot -o ./visual/map_91.svg
+writing map into map_92.dot
+running command: dot -Tsvg ./visual/map_92.dot -o ./visual/map_92.svg
+writing map into map_93.dot
+running command: dot -Tsvg ./visual/map_93.dot -o ./visual/map_93.svg
+writing map into map_94.dot
+running command: dot -Tsvg ./visual/map_94.dot -o ./visual/map_94.svg
+writing map into map_95.dot
+running command: dot -Tsvg ./visual/map_95.dot -o ./visual/map_95.svg
+writing map into map_96.dot
+running command: dot -Tsvg ./visual/map_96.dot -o ./visual/map_96.svg
+writing map into map_97.dot
+running command: dot -Tsvg ./visual/map_97.dot -o ./visual/map_97.svg
+writing map into map_98.dot
+running command: dot -Tsvg ./visual/map_98.dot -o ./visual/map_98.svg
+writing map into map_99.dot
+running command: dot -Tsvg ./visual/map_99.dot -o ./visual/map_99.svg
+writing map into map_100.dot
+running command: dot -Tsvg ./visual/map_100.dot -o ./visual/map_100.svg
+writing map into map_101.dot
+running command: dot -Tsvg ./visual/map_101.dot -o ./visual/map_101.svg
+writing map into map_102.dot
+running command: dot -Tsvg ./visual/map_102.dot -o ./visual/map_102.svg
+writing map into map_103.dot
+running command: dot -Tsvg ./visual/map_103.dot -o ./visual/map_103.svg
+writing map into map_104.dot
+running command: dot -Tsvg ./visual/map_104.dot -o ./visual/map_104.svg
+writing map into map_105.dot
+running command: dot -Tsvg ./visual/map_105.dot -o ./visual/map_105.svg
+writing map into map_106.dot
+running command: dot -Tsvg ./visual/map_106.dot -o ./visual/map_106.svg
+writing map into map_107.dot
+running command: dot -Tsvg ./visual/map_107.dot -o ./visual/map_107.svg
+writing map into map_108.dot
+running command: dot -Tsvg ./visual/map_108.dot -o ./visual/map_108.svg
+writing map into map_109.dot
+running command: dot -Tsvg ./visual/map_109.dot -o ./visual/map_109.svg
+writing map into map_110.dot
+running command: dot -Tsvg ./visual/map_110.dot -o ./visual/map_110.svg
+writing map into map_111.dot
+running command: dot -Tsvg ./visual/map_111.dot -o ./visual/map_111.svg
+writing map into map_112.dot
+running command: dot -Tsvg ./visual/map_112.dot -o ./visual/map_112.svg
+writing map into map_113.dot
+running command: dot -Tsvg ./visual/map_113.dot -o ./visual/map_113.svg
+writing map into map_114.dot
+running command: dot -Tsvg ./visual/map_114.dot -o ./visual/map_114.svg
+writing map into map_115.dot
+running command: dot -Tsvg ./visual/map_115.dot -o ./visual/map_115.svg
+writing map into map_116.dot
+running command: dot -Tsvg ./visual/map_116.dot -o ./visual/map_116.svg
+writing map into map_117.dot
+running command: dot -Tsvg ./visual/map_117.dot -o ./visual/map_117.svg
+writing map into map_118.dot
+running command: dot -Tsvg ./visual/map_118.dot -o ./visual/map_118.svg
+writing map into map_119.dot
+running command: dot -Tsvg ./visual/map_119.dot -o ./visual/map_119.svg
+writing map into map_120.dot
+running command: dot -Tsvg ./visual/map_120.dot -o ./visual/map_120.svg
+writing map into map_121.dot
+running command: dot -Tsvg ./visual/map_121.dot -o ./visual/map_121.svg
+writing map into map_122.dot
+running command: dot -Tsvg ./visual/map_122.dot -o ./visual/map_122.svg
+writing map into map_123.dot
+running command: dot -Tsvg ./visual/map_123.dot -o ./visual/map_123.svg
+writing map into map_124.dot
+running command: dot -Tsvg ./visual/map_124.dot -o ./visual/map_124.svg
+writing map into map_125.dot
+running command: dot -Tsvg ./visual/map_125.dot -o ./visual/map_125.svg
+writing map into map_126.dot
+running command: dot -Tsvg ./visual/map_126.dot -o ./visual/map_126.svg
+writing map into map_127.dot
+running command: dot -Tsvg ./visual/map_127.dot -o ./visual/map_127.svg
+writing map into map_128.dot
+running command: dot -Tsvg ./visual/map_128.dot -o ./visual/map_128.svg
+writing map into map_129.dot
+running command: dot -Tsvg ./visual/map_129.dot -o ./visual/map_129.svg
+writing map into map_130.dot
+running command: dot -Tsvg ./visual/map_130.dot -o ./visual/map_130.svg
+writing map into map_131.dot
+running command: dot -Tsvg ./visual/map_131.dot -o ./visual/map_131.svg
+writing map into map_132.dot
+running command: dot -Tsvg ./visual/map_132.dot -o ./visual/map_132.svg
+writing map into map_133.dot
+running command: dot -Tsvg ./visual/map_133.dot -o ./visual/map_133.svg
+writing map into map_134.dot
+running command: dot -Tsvg ./visual/map_134.dot -o ./visual/map_134.svg
+writing map into map_135.dot
+running command: dot -Tsvg ./visual/map_135.dot -o ./visual/map_135.svg
+writing map into map_136.dot
+running command: dot -Tsvg ./visual/map_136.dot -o ./visual/map_136.svg
+writing map into map_137.dot
+running command: dot -Tsvg ./visual/map_137.dot -o ./visual/map_137.svg
+writing map into map_138.dot
+running command: dot -Tsvg ./visual/map_138.dot -o ./visual/map_138.svg
+writing map into map_139.dot
+running command: dot -Tsvg ./visual/map_139.dot -o ./visual/map_139.svg
+writing map into map_140.dot
+running command: dot -Tsvg ./visual/map_140.dot -o ./visual/map_140.svg
+writing map into map_141.dot
+running command: dot -Tsvg ./visual/map_141.dot -o ./visual/map_141.svg
+writing map into map_142.dot
+running command: dot -Tsvg ./visual/map_142.dot -o ./visual/map_142.svg
+writing map into map_143.dot
+running command: dot -Tsvg ./visual/map_143.dot -o ./visual/map_143.svg
+writing map into map_144.dot
+running command: dot -Tsvg ./visual/map_144.dot -o ./visual/map_144.svg
+writing map into map_145.dot
+running command: dot -Tsvg ./visual/map_145.dot -o ./visual/map_145.svg
+writing map into map_146.dot
+running command: dot -Tsvg ./visual/map_146.dot -o ./visual/map_146.svg
+writing map into map_147.dot
+running command: dot -Tsvg ./visual/map_147.dot -o ./visual/map_147.svg
+writing map into map_148.dot
+running command: dot -Tsvg ./visual/map_148.dot -o ./visual/map_148.svg
+writing map into map_149.dot
+running command: dot -Tsvg ./visual/map_149.dot -o ./visual/map_149.svg
+writing map into map_150.dot
+running command: dot -Tsvg ./visual/map_150.dot -o ./visual/map_150.svg
+writing map into map_151.dot
+running command: dot -Tsvg ./visual/map_151.dot -o ./visual/map_151.svg
+writing map into map_152.dot
+running command: dot -Tsvg ./visual/map_152.dot -o ./visual/map_152.svg
+writing map into map_153.dot
+running command: dot -Tsvg ./visual/map_153.dot -o ./visual/map_153.svg
+writing map into map_154.dot
+running command: dot -Tsvg ./visual/map_154.dot -o ./visual/map_154.svg
+writing map into map_155.dot
+running command: dot -Tsvg ./visual/map_155.dot -o ./visual/map_155.svg
+writing map into map_156.dot
+running command: dot -Tsvg ./visual/map_156.dot -o ./visual/map_156.svg
+writing map into map_157.dot
+running command: dot -Tsvg ./visual/map_157.dot -o ./visual/map_157.svg
+writing map into map_158.dot
+running command: dot -Tsvg ./visual/map_158.dot -o ./visual/map_158.svg
+writing map into map_159.dot
+running command: dot -Tsvg ./visual/map_159.dot -o ./visual/map_159.svg
+writing map into map_160.dot
+running command: dot -Tsvg ./visual/map_160.dot -o ./visual/map_160.svg
+writing map into map_161.dot
+running command: dot -Tsvg ./visual/map_161.dot -o ./visual/map_161.svg
+writing map into map_162.dot
+running command: dot -Tsvg ./visual/map_162.dot -o ./visual/map_162.svg
+writing map into map_163.dot
+running command: dot -Tsvg ./visual/map_163.dot -o ./visual/map_163.svg
+writing map into map_164.dot
+running command: dot -Tsvg ./visual/map_164.dot -o ./visual/map_164.svg
+writing map into map_165.dot
+running command: dot -Tsvg ./visual/map_165.dot -o ./visual/map_165.svg
+writing map into map_166.dot
+running command: dot -Tsvg ./visual/map_166.dot -o ./visual/map_166.svg
+writing map into map_167.dot
+running command: dot -Tsvg ./visual/map_167.dot -o ./visual/map_167.svg
+writing map into map_168.dot
+running command: dot -Tsvg ./visual/map_168.dot -o ./visual/map_168.svg
+writing map into map_169.dot
+running command: dot -Tsvg ./visual/map_169.dot -o ./visual/map_169.svg
+writing map into map_170.dot
+running command: dot -Tsvg ./visual/map_170.dot -o ./visual/map_170.svg
+writing map into map_171.dot
+running command: dot -Tsvg ./visual/map_171.dot -o ./visual/map_171.svg
+writing map into map_172.dot
+running command: dot -Tsvg ./visual/map_172.dot -o ./visual/map_172.svg
+writing map into map_173.dot
+running command: dot -Tsvg ./visual/map_173.dot -o ./visual/map_173.svg
+writing map into map_174.dot
+running command: dot -Tsvg ./visual/map_174.dot -o ./visual/map_174.svg
+writing map into map_175.dot
+running command: dot -Tsvg ./visual/map_175.dot -o ./visual/map_175.svg
+writing map into map_176.dot
+running command: dot -Tsvg ./visual/map_176.dot -o ./visual/map_176.svg
+writing map into map_177.dot
+running command: dot -Tsvg ./visual/map_177.dot -o ./visual/map_177.svg
+writing map into map_178.dot
+running command: dot -Tsvg ./visual/map_178.dot -o ./visual/map_178.svg
+writing map into map_179.dot
+running command: dot -Tsvg ./visual/map_179.dot -o ./visual/map_179.svg
+writing map into map_180.dot
+running command: dot -Tsvg ./visual/map_180.dot -o ./visual/map_180.svg
+writing map into map_181.dot
+running command: dot -Tsvg ./visual/map_181.dot -o ./visual/map_181.svg
+writing map into map_182.dot
+running command: dot -Tsvg ./visual/map_182.dot -o ./visual/map_182.svg
+writing map into map_183.dot
+running command: dot -Tsvg ./visual/map_183.dot -o ./visual/map_183.svg
+writing map into map_184.dot
+running command: dot -Tsvg ./visual/map_184.dot -o ./visual/map_184.svg
+writing map into map_185.dot
+running command: dot -Tsvg ./visual/map_185.dot -o ./visual/map_185.svg
+writing map into map_186.dot
+running command: dot -Tsvg ./visual/map_186.dot -o ./visual/map_186.svg
+writing map into map_187.dot
+running command: dot -Tsvg ./visual/map_187.dot -o ./visual/map_187.svg
+writing map into map_188.dot
+running command: dot -Tsvg ./visual/map_188.dot -o ./visual/map_188.svg
+writing map into map_189.dot
+running command: dot -Tsvg ./visual/map_189.dot -o ./visual/map_189.svg
+writing map into map_190.dot
+running command: dot -Tsvg ./visual/map_190.dot -o ./visual/map_190.svg
+writing map into map_191.dot
+running command: dot -Tsvg ./visual/map_191.dot -o ./visual/map_191.svg
+writing map into map_192.dot
+running command: dot -Tsvg ./visual/map_192.dot -o ./visual/map_192.svg
+writing map into map_193.dot
+running command: dot -Tsvg ./visual/map_193.dot -o ./visual/map_193.svg
+writing map into map_194.dot
+running command: dot -Tsvg ./visual/map_194.dot -o ./visual/map_194.svg
+writing map into map_195.dot
+running command: dot -Tsvg ./visual/map_195.dot -o ./visual/map_195.svg
+writing map into map_196.dot
+running command: dot -Tsvg ./visual/map_196.dot -o ./visual/map_196.svg
+writing map into map_197.dot
+running command: dot -Tsvg ./visual/map_197.dot -o ./visual/map_197.svg
+writing map into map_198.dot
+running command: dot -Tsvg ./visual/map_198.dot -o ./visual/map_198.svg
+writing map into map_199.dot
+running command: dot -Tsvg ./visual/map_199.dot -o ./visual/map_199.svg
+writing map into map_200.dot
+running command: dot -Tsvg ./visual/map_200.dot -o ./visual/map_200.svg
+writing map into map_201.dot
+running command: dot -Tsvg ./visual/map_201.dot -o ./visual/map_201.svg
+writing map into map_202.dot
+running command: dot -Tsvg ./visual/map_202.dot -o ./visual/map_202.svg
+writing map into map_203.dot
+running command: dot -Tsvg ./visual/map_203.dot -o ./visual/map_203.svg
+writing map into map_204.dot
+running command: dot -Tsvg ./visual/map_204.dot -o ./visual/map_204.svg
+writing map into map_205.dot
+running command: dot -Tsvg ./visual/map_205.dot -o ./visual/map_205.svg
+writing map into map_206.dot
+running command: dot -Tsvg ./visual/map_206.dot -o ./visual/map_206.svg
+writing map into map_207.dot
+running command: dot -Tsvg ./visual/map_207.dot -o ./visual/map_207.svg
+writing map into map_208.dot
+running command: dot -Tsvg ./visual/map_208.dot -o ./visual/map_208.svg
+writing map into map_209.dot
+running command: dot -Tsvg ./visual/map_209.dot -o ./visual/map_209.svg
+writing map into map_210.dot
+running command: dot -Tsvg ./visual/map_210.dot -o ./visual/map_210.svg
+writing map into map_211.dot
+running command: dot -Tsvg ./visual/map_211.dot -o ./visual/map_211.svg
+writing map into map_212.dot
+running command: dot -Tsvg ./visual/map_212.dot -o ./visual/map_212.svg
+writing map into map_213.dot
+running command: dot -Tsvg ./visual/map_213.dot -o ./visual/map_213.svg
+writing map into map_214.dot
+running command: dot -Tsvg ./visual/map_214.dot -o ./visual/map_214.svg
+writing map into map_215.dot
+running command: dot -Tsvg ./visual/map_215.dot -o ./visual/map_215.svg
+writing map into map_216.dot
+running command: dot -Tsvg ./visual/map_216.dot -o ./visual/map_216.svg
+writing map into map_217.dot
+running command: dot -Tsvg ./visual/map_217.dot -o ./visual/map_217.svg
+writing map into map_218.dot
+running command: dot -Tsvg ./visual/map_218.dot -o ./visual/map_218.svg
+writing map into map_219.dot
+running command: dot -Tsvg ./visual/map_219.dot -o ./visual/map_219.svg
+writing map into map_220.dot
+running command: dot -Tsvg ./visual/map_220.dot -o ./visual/map_220.svg
+writing map into map_221.dot
+running command: dot -Tsvg ./visual/map_221.dot -o ./visual/map_221.svg
+writing map into map_222.dot
+running command: dot -Tsvg ./visual/map_222.dot -o ./visual/map_222.svg
+writing map into map_223.dot
+running command: dot -Tsvg ./visual/map_223.dot -o ./visual/map_223.svg
+writing map into map_224.dot
+running command: dot -Tsvg ./visual/map_224.dot -o ./visual/map_224.svg
+writing map into map_225.dot
+running command: dot -Tsvg ./visual/map_225.dot -o ./visual/map_225.svg
+writing map into map_226.dot
+running command: dot -Tsvg ./visual/map_226.dot -o ./visual/map_226.svg
+writing map into map_227.dot
+running command: dot -Tsvg ./visual/map_227.dot -o ./visual/map_227.svg
+writing map into map_228.dot
+running command: dot -Tsvg ./visual/map_228.dot -o ./visual/map_228.svg
+writing map into map_229.dot
+running command: dot -Tsvg ./visual/map_229.dot -o ./visual/map_229.svg
+writing map into map_230.dot
+running command: dot -Tsvg ./visual/map_230.dot -o ./visual/map_230.svg
+writing map into map_231.dot
+running command: dot -Tsvg ./visual/map_231.dot -o ./visual/map_231.svg
+writing map into map_232.dot
+running command: dot -Tsvg ./visual/map_232.dot -o ./visual/map_232.svg
+writing map into map_233.dot
+running command: dot -Tsvg ./visual/map_233.dot -o ./visual/map_233.svg
+writing map into map_234.dot
+running command: dot -Tsvg ./visual/map_234.dot -o ./visual/map_234.svg
+writing map into map_235.dot
+running command: dot -Tsvg ./visual/map_235.dot -o ./visual/map_235.svg
+writing map into map_236.dot
+running command: dot -Tsvg ./visual/map_236.dot -o ./visual/map_236.svg
+writing map into map_237.dot
+running command: dot -Tsvg ./visual/map_237.dot -o ./visual/map_237.svg
+writing map into map_238.dot
+running command: dot -Tsvg ./visual/map_238.dot -o ./visual/map_238.svg
+writing map into map_239.dot
+running command: dot -Tsvg ./visual/map_239.dot -o ./visual/map_239.svg
+writing map into map_240.dot
+running command: dot -Tsvg ./visual/map_240.dot -o ./visual/map_240.svg
+writing map into map_241.dot
+running command: dot -Tsvg ./visual/map_241.dot -o ./visual/map_241.svg
+writing map into map_242.dot
+running command: dot -Tsvg ./visual/map_242.dot -o ./visual/map_242.svg
+writing map into map_243.dot
+running command: dot -Tsvg ./visual/map_243.dot -o ./visual/map_243.svg
+writing map into map_244.dot
+running command: dot -Tsvg ./visual/map_244.dot -o ./visual/map_244.svg
+writing map into map_245.dot
+running command: dot -Tsvg ./visual/map_245.dot -o ./visual/map_245.svg
+writing map into map_246.dot
+running command: dot -Tsvg ./visual/map_246.dot -o ./visual/map_246.svg
+writing map into map_247.dot
+running command: dot -Tsvg ./visual/map_247.dot -o ./visual/map_247.svg
+writing map into map_248.dot
+running command: dot -Tsvg ./visual/map_248.dot -o ./visual/map_248.svg
+writing map into map_249.dot
+running command: dot -Tsvg ./visual/map_249.dot -o ./visual/map_249.svg
+writing map into map_250.dot
+running command: dot -Tsvg ./visual/map_250.dot -o ./visual/map_250.svg
+writing map into map_251.dot
+running command: dot -Tsvg ./visual/map_251.dot -o ./visual/map_251.svg
+writing map into map_252.dot
+running command: dot -Tsvg ./visual/map_252.dot -o ./visual/map_252.svg
+writing map into map_253.dot
+running command: dot -Tsvg ./visual/map_253.dot -o ./visual/map_253.svg
+writing map into map_254.dot
+running command: dot -Tsvg ./visual/map_254.dot -o ./visual/map_254.svg
+writing map into map_255.dot
+running command: dot -Tsvg ./visual/map_255.dot -o ./visual/map_255.svg
+writing map into map_256.dot
+running command: dot -Tsvg ./visual/map_256.dot -o ./visual/map_256.svg
+writing map into map_257.dot
+running command: dot -Tsvg ./visual/map_257.dot -o ./visual/map_257.svg
+writing map into map_258.dot
+running command: dot -Tsvg ./visual/map_258.dot -o ./visual/map_258.svg
+writing map into map_259.dot
+running command: dot -Tsvg ./visual/map_259.dot -o ./visual/map_259.svg
+writing map into map_260.dot
+running command: dot -Tsvg ./visual/map_260.dot -o ./visual/map_260.svg
+writing map into map_261.dot
+running command: dot -Tsvg ./visual/map_261.dot -o ./visual/map_261.svg
+writing map into map_262.dot
+running command: dot -Tsvg ./visual/map_262.dot -o ./visual/map_262.svg
+writing map into map_263.dot
+running command: dot -Tsvg ./visual/map_263.dot -o ./visual/map_263.svg
+writing map into map_264.dot
+running command: dot -Tsvg ./visual/map_264.dot -o ./visual/map_264.svg
+writing map into map_265.dot
+running command: dot -Tsvg ./visual/map_265.dot -o ./visual/map_265.svg
+writing map into map_266.dot
+running command: dot -Tsvg ./visual/map_266.dot -o ./visual/map_266.svg
+writing map into map_267.dot
+running command: dot -Tsvg ./visual/map_267.dot -o ./visual/map_267.svg
+writing map into map_268.dot
+running command: dot -Tsvg ./visual/map_268.dot -o ./visual/map_268.svg
+writing map into map_269.dot
+running command: dot -Tsvg ./visual/map_269.dot -o ./visual/map_269.svg
+writing map into map_270.dot
+running command: dot -Tsvg ./visual/map_270.dot -o ./visual/map_270.svg
+writing map into map_271.dot
+running command: dot -Tsvg ./visual/map_271.dot -o ./visual/map_271.svg
